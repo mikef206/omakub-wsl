@@ -1,0 +1,4 @@
+{
+  "extras": [ "lazywim.plugins.extras.lang.go" ],
+  "version": 6
+}
