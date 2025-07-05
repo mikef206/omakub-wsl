@@ -13,3 +13,7 @@ sudo usermod -aG docker ${USER}
 
 # Use local logging driver - it's more efficient and uses compression by default.
 echo '{"log-driver":"local","log-opts":{"max-size":"10m","max-file":"5"}}' | sudo tee /etc/docker/daemon.json > /dev/null
+
+# Start Docker service
+sudo service docker start
+sudo service docker status
