@@ -5,7 +5,7 @@ This is a cutdown version of Omakub for Windows Subsystem for Linux (WSL).
 ## Installation
 - On your WSL terminal, run the following command:
 ```bash
-wget -qO- https://raw.githubusercontent.com/Nuzair46/omakub-wsl/main/setup | bash
+wget -qO- https://raw.githubusercontent.com/mikef206/omakub-wsl/main/setup | bash
 ```
 
 - If needed, setup VScode with this guide https://code.visualstudio.com/docs/remote/wsl-tutorial  
