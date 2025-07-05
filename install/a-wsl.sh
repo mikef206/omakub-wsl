@@ -1,0 +1,1 @@
+sudo cp ~/.local/share/omakub-wsl/configs/wsl /etc/wsl.conf
